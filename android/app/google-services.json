@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "693038262788",
+    "project_id": "houserent-4ac49",
+    "storage_bucket": "houserent-4ac49.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:693038262788:android:e2a4bebc8734e4ca11e351",
+        "android_client_info": {
+          "package_name": "com.example.firstapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsyYXwxXYj4uTWA0GJnocUxDjS5J_VRX0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
