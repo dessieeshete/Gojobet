@@ -1,6 +1,6 @@
 # firstapp
 
-A new Flutter project.
+A realstate android application using  Flutter and firebase .
 
 ## Getting Started
 
